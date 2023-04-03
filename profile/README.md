@@ -1,4 +1,4 @@
-## Wir ziehen um! 👋
+# Wir ziehen um! 👋
 
 An English version of our statement can be found [here](README-EN.md).
 
