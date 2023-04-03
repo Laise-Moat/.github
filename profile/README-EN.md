@@ -1,4 +1,4 @@
-## We're moving! 👋
+# We're moving! 👋
 
 Our repositories has been migrated from GitHub to our new Git site, created in collaboration with [@Future-Studios](https://github.com/Future-Studios).
 
