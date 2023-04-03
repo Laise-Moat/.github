@@ -16,7 +16,7 @@ Our new Git site can be found at [here](https://git.future-studios.net/). We enc
 
 If you have any open issues or pull requests on our repositories, we have migrated them to our new Git site. You can continue to track and comment on these items at our new site.
 
-### How to access the repository?
+### How to access the "new" repositories?
 
 To access our repositories, you can visit our Git site at https://git.future-studios.net/ and search for the repository name. You can clone the repository using the `git clone` command and start working on it.
 How to contribute?
