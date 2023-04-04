@@ -1,6 +1,6 @@
 # Wir ziehen um! 👋
 
-An English version of our statement can be found [here](README-EN.md).
+An English version of our statement can be found [here](https://github.com/Laise-Moat/.github/blob/main/profile/README-EN.md).
 
 Unsere Repositories wurden von GitHub auf unsere neue Git-Seite migriert, welche in Zusammenarbeit mit [@Future-Studios](https://github.com/Future-Studios) enstanden ist.
 
